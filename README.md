@@ -29,7 +29,7 @@ Tech background in **Computer Networks** (SENAI CIMATEC).
 $ ls ~/stack
 ```
 
-**Languages**         `C#` `Python` `TypeScript` `JavaScript` `PHP` `SQL` `Shell` `C` `C++` `Rust` (learning)  
+**Languages**         `PHP` `C#` `Python` `TypeScript` `JavaScript` `SQL` `Shell` `C` `C++` `Rust` (learning)  
 **Frameworks**        `.NET` `React` `Laravel` `Vite`  
 **Databases**         `SQL Server` `PostgreSQL` `MySQL`  
 **Infra & Tools**     `Linux` `Git` `Docker` (learning) `Networking`
