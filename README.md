@@ -62,7 +62,7 @@ $ cat contact.txt
 
 🌐 **[joshuastrauch.com.br](https://joshuastrauch.com.br)**  
 📫 joshuascbritto@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/SEU-USER)
+💼 [LinkedIn](https://www.linkedin.com/in/joshuastrauch/)
 
 ---
 
